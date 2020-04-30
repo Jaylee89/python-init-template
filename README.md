@@ -10,7 +10,7 @@ python init template
    - `./start.sh --entity AU --env sit`
    - `./start --entity AU --env sit`
 
-## Deployment + entrance
+## Deployment + execution
 You need to execute two commands after a new deployment
-1. install those depenencies
+1. install depenencies
 2. script entrance
