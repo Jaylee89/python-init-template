@@ -13,4 +13,4 @@ python init template
 ## Deployment + execution
 You need to execute two commands after a new deployment
 1. install depenencies
-2. script entrance
+2. execute script
