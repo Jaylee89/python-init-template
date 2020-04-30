@@ -7,8 +7,8 @@ python init template
    - `chmod a+x start.sh`
    - `chmod a+x install.sh`
 2. To execute `./start --args` or `./start.sh --args`
-   - `./start.sh --entity TW --env cert`
-   - `./start --entity TW --env cert`
+   - `./start.sh --entity AU --env sit`
+   - `./start --entity AU --env sit`
 
 ## Deployment + entrance
 You need to execute two commands after a new deployment
